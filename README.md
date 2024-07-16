@@ -1,5 +1,3 @@
-# DEPRECATED
-
 This package is deprecated in favor of [`@capacitor-mlkit/barcode-scanning`](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/barcode-scanning).
 `@capacitor-mlkit/barcode-scanning` has multiple features that are missing in this project, especially a prebuilt UI. 
 Not having an out of the box solution was confusing for most users and caused a lot of issues.
